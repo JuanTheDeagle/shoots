@@ -1,1 +1,1 @@
-# shoots
+# project-C25-template
